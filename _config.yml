@@ -8,31 +8,31 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhihai Wang / HomePage"
+title                    : "Runquan Gui / HomePage"
 title_separator          : "-"
-name                     : &name "Zhihai Wang"
-description              : &description "The homepage of Zhihai Wang"
-url                      : https://zhihaiwangx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Runquan Gui"
+description              : &description "The homepage of Runquan Gui"
+url                      : https://runquangui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhihaiwangx/zhihaiwangx.github.io"
+repository               : "aintdoin/runquangui.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhihaiwang.jpg"
-  name             : "Zhihai Wang (王治海)"
+  avatar           : "me.png"
+  name             : "Runquan Gui (桂润泉)"
   # pronouns         : # example: "she/her"  
-  bio              : "Phd Candidate at USTC"
-  location         : "ShenZhen"
+  bio              : "Master Student at USTC"
+  location         : #"ShenZhen"
   # employer         : "Red Brick University"
-  uri              : https://miralab.ai/people/zhihai-wang/
-  email            : "zhwangx@mail.ustc.edu.cn" 
+  uri              : #https://miralab.ai/people/zhihai-wang/
+  email            : "rqgui@mail.ustc.edu.cn" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : https://scholar.google.com/citations?user=EdLIBG8AAAAJ&hl=id&oi=ao
+  googlescholar    : https://scholar.google.com/citations?user=ZjJcjQUAAAAJ
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : orgs/MIRALab-USTC/repositories
+  github           : https://github.com/aintdoin
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
