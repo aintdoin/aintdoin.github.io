@@ -24,7 +24,7 @@ Honors and Awards
 Research
 ======
 
-Publications
+Selected Publications
 ------
 
 1. **Runquan Gui**, Zhihai Wang, Jie Wang*, Chi Ma, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Defu Lian, Enhong Chen, Feng Wu. HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking. **ICML 2025**. [Website](https://aintdoin.github.io/hypertree-planning.github.io/) [Paper](https://arxiv.org/pdf/2505.02322) [Code](https://github.com/aintdoin/hypertree-planning)
