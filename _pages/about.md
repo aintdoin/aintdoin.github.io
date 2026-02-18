@@ -36,6 +36,6 @@ aintdoin/FaithRL)
 Experience
 ======
 
-- Shanghai AI Laboratory, 2025/09 - 
-- Noah’s Ark Lab, Huawei Technologies, Research Collaboration, 2024/12 - 2025/08
-- Alibaba Cloud Internship, Research Intern, 2024/05 - 2024/08 
+- Shanghai AI Laboratory, Research Intern, Sept. 2025 – Present
+- Noah’s Ark Lab, Huawei, Research Collaboration, Dec. 2024 – Aug. 2025
+- Alibaba Cloud, Research Intern, May 2024 – Aug. 2024
