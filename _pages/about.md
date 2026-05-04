@@ -30,9 +30,8 @@ Selected Publications
 
 1. **Runquan Gui**, Zhihai Wang, Jie Wang*, Chi Ma, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Defu Lian, Enhong Chen, Feng Wu. HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking. **ICML 2025**. [Website](https://aintdoin.github.io/hypertree-planning.github.io/) [Paper](https://arxiv.org/pdf/2505.02322) [Code](https://github.com/aintdoin/hypertree-planning)
 2. **Runquan Gui**, Jie Wang*, Zhihai Wang, Chi Ma, Jianye Hao, Feng Wu. Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization. **ICML 2026**. [Paper](https://arxiv.org/abs/2602.03141) [Code](https://github.com/aintdoin/CoSMo)
-3. **Runquan Gui**, Yafu Li*, Xiaoye Qu, Ziyan Liu, Yeqiu Chen, Yu Cheng. Learning to Reason Faithfully through Step-Level Faithfulness Maximization. [Paper](https://arxiv.org/pdf/2602.03507) [Code]( https://github.com/
-aintdoin/FaithRL)
-4. Yeqiu Chen, Ziyan Liu, Zhenxin Huang, **Runquan Gui**, Hong Wang, Lei Liu. ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning. **ICML 2026**.
+3. **Runquan Gui**, Yafu Li*, Xiaoye Qu, Ziyan Liu, Yeqiu Chen, Yu Cheng. Learning to Reason Faithfully through Step-Level Faithfulness Maximization. [Paper](https://arxiv.org/pdf/2602.03507) [Code]( https://github.com/aintdoin/FaithRL)
+4. Yeqiu Chen, Ziyan Liu, Zhenxin Huang*, **Runquan Gui**, Hong Wang, Lei Liu. ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning. **ICML 2026**.
 
 
 Experience
