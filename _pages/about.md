@@ -37,6 +37,7 @@ Selected Publications
 Experience
 ======
 
+- Tencent Hunyuan, Qingyun Program Intern, May 2026 – Present
 - Shanghai AI Laboratory, Research Intern, Sept. 2025 – Apr. 2026
 - Noah’s Ark Lab, Huawei, Research Collaboration, Dec. 2024 – Aug. 2025
 - Alibaba Cloud, Research Intern, May 2024 – Aug. 2024
