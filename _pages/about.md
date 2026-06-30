@@ -31,19 +31,19 @@ Intern & Collaboration
 
 <ul style="list-style:none; padding-left:0;">
   <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_tencent.webp" style="height:40px; width:auto; object-fit:contain;">
+    <img src="/images/Logo_tencent.webp" style="width:104px; height:60px; object-fit:contain;">
     <span>Tencent Hunyuan, <strong>Qingyun Program Intern</strong>, May 2026 – Present</span>
   </li>
   <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_shailab.png" style="height:40px; width:auto; object-fit:contain;">
+    <img src="/images/Logo_shailab.png" style="width:104px; height:60px; object-fit:contain;">
     <span>Shanghai AI Laboratory, Research Intern, Sept. 2025 – Apr. 2026</span>
   </li>
   <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_huawei.png" style="height:40px; width:auto; object-fit:contain;">
+    <img src="/images/Logo_huawei.png" style="width:104px; height:60px; object-fit:contain;">
     <span>Noah’s Ark Lab, Huawei, Research Collaboration, Dec. 2024 – Aug. 2025</span>
   </li>
   <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_alibaba.jpg" style="height:40px; width:auto; object-fit:contain;">
+    <img src="/images/Logo_alibaba.jpg" style="width:104px; height:60px; object-fit:contain;">
     <span>Alibaba Cloud, Research Intern, May 2024 – Aug. 2024</span>
   </li>
 </ul>
