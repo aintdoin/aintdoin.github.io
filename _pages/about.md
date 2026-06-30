@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My M.S. advisor is **Academician** [Feng Wu](https://sist.ustc.edu.cn/2025/1203/c5139a714624/page.htm), and my Ph.D. advisor is Prof. [Zhibo Chen](https://faculty.ustc.edu.cn/chenzhibo/). I received my Bachelor’s degree in 2024 from the [School of the Gifted Young](https://sgy.ustc.edu.cn/main.htm) at USTC. My research interests include LLM post-training, agent, reinforcement learning, and world model.
+I am a Ph.D. student at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My M.S. advisor is **Academician** [Feng Wu](https://sist.ustc.edu.cn/2025/1203/c5139a714624/page.htm), and my Ph.D. advisor is Prof. [Zhibo Chen](https://faculty.ustc.edu.cn/chenzhibo/). I received my Bachelor’s degree in 2024 from the [School of the Gifted Young](https://sgy.ustc.edu.cn/main.htm) (少年班)  at USTC. My research interests include LLM post-training, agent, reinforcement learning, and world model.
 
 Education
 ======
@@ -29,10 +29,24 @@ Selected Publications
 Intern & Collaboration
 ======
 
-- Tencent Hunyuan, **Qingyun Program Intern**, May 2026 – Present
-- Shanghai AI Laboratory, Research Intern, Sept. 2025 – Apr. 2026
-- Noah’s Ark Lab, Huawei, Research Collaboration, Dec. 2024 – Aug. 2025
-- Alibaba Cloud, Research Intern, May 2024 – Aug. 2024
+<ul style="list-style:none; padding-left:0;">
+  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+    <img src="/images/Logo_tencent.webp" style="height:40px; width:auto; object-fit:contain;">
+    <span>Tencent Hunyuan, <strong>Qingyun Program Intern</strong>, May 2026 – Present</span>
+  </li>
+  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+    <img src="/images/Logo_shailab.png" style="height:40px; width:auto; object-fit:contain;">
+    <span>Shanghai AI Laboratory, Research Intern, Sept. 2025 – Apr. 2026</span>
+  </li>
+  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+    <img src="/images/Logo_huawei.png" style="height:40px; width:auto; object-fit:contain;">
+    <span>Noah’s Ark Lab, Huawei, Research Collaboration, Dec. 2024 – Aug. 2025</span>
+  </li>
+  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+    <img src="/images/Logo_alibaba.jpg" style="height:40px; width:auto; object-fit:contain;">
+    <span>Alibaba Cloud, Research Intern, May 2024 – Aug. 2024</span>
+  </li>
+</ul>
 
 Honors and Awards
 ======
