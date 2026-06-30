@@ -31,7 +31,7 @@ Intern & Collaboration
 
 <ul style="list-style:none; padding-left:0;">
   <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_tencent.webp" style="width:104px; height:60px; object-fit:contain;">
+    <img src="/images/Logo_tencent.png" style="width:104px; height:60px; object-fit:contain;">
     <span>Tencent Hunyuan, <strong>Qingyun Program Intern</strong>, May 2026 – Present</span>
   </li>
   <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
