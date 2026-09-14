@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sips -g pixelWidth -g pixelHeight '/Users/runquangui/Documents/文稿 - Gui'\\\\''s MacBook Pro/github/aintdoin.github.io/images/__TRACKED_VAR__')",
+      "Bash(sips *)"
+    ]
+  }
+}
