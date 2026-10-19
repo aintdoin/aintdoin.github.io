@@ -1,0 +1,159 @@
+research_interests:
+  - LLM post-training
+  - agents
+  - reinforcement learning
+  - world models
+
+education:
+  - degree: Ph.D.
+    school: School of Information Science and Technology
+    institution: University of Science and Technology of China
+    period: 2026 - 2029 (Expected)
+  - degree: M.S.
+    school: School of Information Science and Technology
+    institution: University of Science and Technology of China
+    period: 2024 - 2026
+  - degree: B.S.
+    school: School of the Gifted Young
+    institution: University of Science and Technology of China
+    period: 2020 - 2024
+
+experience:
+  - organization: Tencent Hunyuan
+    role: Qingyun Program Intern
+    period: May 2026 &ndash; Present
+    logo: /images/Logo_tencent.png
+    logo_alt: Tencent Hunyuan logo
+  - organization: Shanghai AI Laboratory
+    role: Research Intern
+    period: Sept. 2025 &ndash; Apr. 2026
+    logo: /images/Logo_shailab.png
+    logo_alt: Shanghai AI Laboratory logo
+  - organization: Noah's Ark Lab, Huawei
+    role: Research Collaboration
+    period: Dec. 2024 &ndash; Aug. 2025
+    logo: /images/Logo_huawei.png
+    logo_alt: Huawei logo
+  - organization: Alibaba Cloud
+    role: Research Intern
+    period: May 2024 &ndash; Aug. 2024
+    logo: /images/Logo_alibaba.jpg
+    logo_alt: Alibaba Cloud logo
+
+publications:
+  - title: "VAMR: Multi-Question Agentic Reasoning for Efficient Long-Form Video Understanding"
+    authors:
+      - Runquan Gui
+      - Hanzhu Chen
+      - Zehao Wang
+      - Hanxin Zhu
+      - Xin Li
+      - Zhibo Chen
+    corresponding_authors:
+      - Zhibo Chen
+    links:
+      - label: Paper
+        url: https://arxiv.org/abs/2610.11171
+  - title: "Pi-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows"
+    venue: NeurIPS 2026
+    authors:
+      - Haoran Zhang
+      - Luxin Xu
+      - Zhilin Wang
+      - Runquan Gui
+      - Shunkai Zhang
+      - Haodi Lei
+      - Zihao He
+      - Bingsu He
+      - Chicheng Qin
+      - Tong Zhu
+      - Xiaoye Qu
+      - Yang Yang
+      - Yu Cheng
+      - Yafu Li
+    equal_contributors:
+      - Haoran Zhang
+      - Luxin Xu
+      - Zhilin Wang
+      - Runquan Gui
+    corresponding_authors:
+      - Yang Yang
+      - Yu Cheng
+      - Yafu Li
+    links:
+      - label: Website
+        url: https://simplified-reasoning.github.io/Pi-Bench
+      - label: Paper
+        url: https://arxiv.org/pdf/2605.14678
+      - label: Code
+        url: https://github.com/Simplified-Reasoning/Pi-Bench
+  - title: Learning to Reason Faithfully through Step-Level Faithfulness Maximization
+    venue: EMNLP 2026
+    authors:
+      - Runquan Gui
+      - Yafu Li
+      - Xiaoye Qu
+      - Ziyan Liu
+      - Yeqiu Chen
+      - Yu Cheng
+    corresponding_authors:
+      - Yafu Li
+    links:
+      - label: Paper
+        url: https://arxiv.org/pdf/2602.03507
+      - label: Code
+        url: https://github.com/aintdoin/FaithRL
+  - title: "Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization"
+    venue: ICML 2026
+    authors:
+      - Runquan Gui
+      - Jie Wang
+      - Zhihai Wang
+      - Chi Ma
+      - Jianye Hao
+      - Feng Wu
+    corresponding_authors:
+      - Jie Wang
+    links:
+      - label: Paper
+        url: https://arxiv.org/abs/2602.03141
+      - label: Code
+        url: https://github.com/aintdoin/CoSMo
+  - title: "ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning"
+    venue: ICML 2026
+    authors:
+      - Yeqiu Chen
+      - Ziyan Liu
+      - Zhenxin Huang
+      - Runquan Gui
+      - Hong Wang
+      - Lei Liu
+    corresponding_authors:
+      - Lei Liu
+    links:
+      - label: Paper
+        url: https://arxiv.org/pdf/2605.22106
+  - title: "HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking"
+    venue: ICML 2025
+    authors:
+      - Runquan Gui
+      - Zhihai Wang
+      - Jie Wang
+      - Chi Ma
+      - Huiling Zhen
+      - Mingxuan Yuan
+      - Jianye Hao
+      - Defu Lian
+      - Enhong Chen
+      - Feng Wu
+    corresponding_authors:
+      - Jie Wang
+    links:
+      - label: Paper
+        url: https://arxiv.org/pdf/2505.02322
+      - label: Code
+        url: https://github.com/aintdoin/hypertree-planning
+
+honors:
+  - '"Qiangwei" Scholarship, 2021 & 2023'
+  - Outstanding Student Scholarship, 2021 & 2022 & 2023

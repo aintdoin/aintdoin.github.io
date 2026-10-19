@@ -1,0 +1,5 @@
+<ul>
+  {% for item in site.data.profile.education %}
+    <li><strong>{{ item.degree }}</strong>, {{ item.school }}, {{ item.institution }}, {{ item.period }}</li>
+  {% endfor %}
+</ul>

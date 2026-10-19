@@ -1,0 +1,11 @@
+<ol class="publication-list">
+  {% for publication in site.data.profile.publications %}
+    <li>
+      {% for author in publication.authors %}{% if author == site.name %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% if publication.equal_contributors and publication.equal_contributors contains author %}*{% endif %}{% if publication.corresponding_authors and publication.corresponding_authors contains author %}<sup>&dagger;</sup>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.
+      {{ publication.title }}.{% if publication.venue %} <strong>{{ publication.venue }}</strong>.{% endif %}
+      {% for link in publication.links %}[<a href="{{ link.url }}">{{ link.label }}</a>]{% unless forloop.last %} {% endunless %}{% endfor %}
+    </li>
+  {% endfor %}
+</ol>
+
+<p><small>* denotes equal contribution. <sup>&dagger;</sup> denotes corresponding author.</small></p>

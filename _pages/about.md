@@ -1,55 +1,32 @@
 ---
 permalink: /
-title: "About Me"
+title: "Runquan Gui"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My M.S. advisor is **Academician** [Feng Wu](https://sist.ustc.edu.cn/2025/1203/c5139a714624/page.htm), and my Ph.D. advisor is Prof. [Zhibo Chen](https://faculty.ustc.edu.cn/chenzhibo/). I received my Bachelor’s degree in 2024 from the [School of the Gifted Young](https://sgy.ustc.edu.cn/main.htm) (少年班)  at USTC. My research interests include LLM post-training, agent, reinforcement learning, and world model.
+I am a Ph.D. student at the School of Information Science and Technology, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My M.S. advisor is **Academician** [Feng Wu](https://sist.ustc.edu.cn/2025/1203/c5139a714624/page.htm), and my Ph.D. advisor is Prof. [Zhibo Chen](https://faculty.ustc.edu.cn/chenzhibo/). I received my Bachelor's degree in 2024 from the [School of the Gifted Young](https://sgy.ustc.edu.cn/main.htm) (少年班) at USTC. My research interests include LLM post-training, agents, reinforcement learning, and world models.
 
 Education
 ======
-- Ph.D., School of Information Science and Technology, University of Science and Technology of China, 2026 - 2029 (Expected)
-- M.S., School of Information Science and Technology, University of Science and Technology of China, 2024 - 2026
-- B.S.,  **School of the Gifted Young**, University of Science and Technology of China, 2020 - 2024
+{% include profile-education.html %}
 
 Selected Publications
 ======
 
-1. **Runquan Gui**, Hanzhu Chen, Zehao Wang, Hanxin Zhu, Xin Li, Zhibo Chen<sup>†</sup>. VAMR: Multi-Question Agentic Reasoning for Efficient Long-Form Video Understanding. [[Paper](https://arxiv.org/abs/2610.11171)]
-2. Haoran Zhang\*, Luxin Xu\*, Zhilin Wang\*, **Runquan Gui**\*, Shunkai Zhang, Haodi Lei, Zihao He, Bingsu He, Chicheng Qin, Tong Zhu, Xiaoye Qu, Yang Yang<sup>†</sup>, Yu Cheng<sup>†</sup>, Yafu Li<sup>†</sup>. Pi-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows. **NeurIPS 2026**. [[Website](https://simplified-reasoning.github.io/Pi-Bench)] [[Paper](https://arxiv.org/pdf/2605.14678)] [[Code](https://github.com/Simplified-Reasoning/Pi-Bench)]
-3. **Runquan Gui**, Yafu Li<sup>†</sup>, Xiaoye Qu, Ziyan Liu, Yeqiu Chen, Yu Cheng. Learning to Reason Faithfully through Step-Level Faithfulness Maximization. **EMNLP 2026**. [[Paper](https://arxiv.org/pdf/2602.03507)] [[Code](https://github.com/aintdoin/FaithRL)]
-4. **Runquan Gui**, Jie Wang<sup>†</sup>, Zhihai Wang, Chi Ma, Jianye Hao, Feng Wu. Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization. **ICML 2026**. [[Paper](https://arxiv.org/abs/2602.03141)] [[Code](https://github.com/aintdoin/CoSMo)]
-5. Yeqiu Chen, Ziyan Liu, Zhenxin Huang, **Runquan Gui**, Hong Wang, Lei Liu<sup>†</sup>. ArborKV: Structure-Aware KV Cache Management for Scaling Tree-based LLM Reasoning. **ICML 2026**. [[Paper](https://arxiv.org/pdf/2605.22106)]
-6. **Runquan Gui**, Zhihai Wang, Jie Wang<sup>†</sup>, Chi Ma, Huiling Zhen, Mingxuan Yuan, Jianye Hao, Defu Lian, Enhong Chen, Feng Wu. HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking. **ICML 2025**. [[Paper](https://arxiv.org/pdf/2505.02322)] [[Code](https://github.com/aintdoin/hypertree-planning)]
-
-\* denotes equal contribution.
+{% include profile-publications.html %}
 
 Intern & Collaboration
 ======
 
-<ul style="list-style:none; padding-left:0;">
-  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_tencent.png" style="width:104px; height:60px; object-fit:contain;">
-    <span>Tencent Hunyuan, <strong>Qingyun Program Intern</strong>, May 2026 – Present</span>
-  </li>
-  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_shailab.png" style="width:104px; height:60px; object-fit:contain;">
-    <span>Shanghai AI Laboratory, Research Intern, Sept. 2025 – Apr. 2026</span>
-  </li>
-  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_huawei.png" style="width:104px; height:60px; object-fit:contain;">
-    <span>Noah’s Ark Lab, Huawei, Research Collaboration, Dec. 2024 – Aug. 2025</span>
-  </li>
-  <li style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
-    <img src="/images/Logo_alibaba.jpg" style="width:104px; height:60px; object-fit:contain;">
-    <span>Alibaba Cloud, Research Intern, May 2024 – Aug. 2024</span>
-  </li>
-</ul>
+{% include profile-experience.html %}
 
 Honors and Awards
 ======
-- "Qiangwei" Scholarship, 2021 & 2023
-- Outstanding Student Scholarship, 2021 & 2022 & 2023
+<ul>
+  {% for honor in site.data.profile.honors %}
+    <li>{{ honor }}</li>
+  {% endfor %}
+</ul>
